@@ -1,0 +1,1228 @@
+{
+    "enties": [
+        {
+            "id": 1,
+            "name": "오늘",
+            "type": "TIME",
+            "start": 3,
+            "end": 5,
+            "lettercase": "null"
+        },
+        {
+            "id": 2,
+            "name": "오늘",
+            "type": "TIME",
+            "start": 119,
+            "end": 121,
+            "lettercase": "null"
+        },
+        {
+            "id": 3,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 31,
+            "end": 33,
+            "lettercase": "null"
+        },
+        {
+            "id": 4,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 179,
+            "end": 181,
+            "lettercase": "null"
+        },
+        {
+            "id": 5,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 210,
+            "end": 212,
+            "lettercase": "null"
+        },
+        {
+            "id": 6,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 296,
+            "end": 298,
+            "lettercase": "null"
+        },
+        {
+            "id": 7,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 369,
+            "end": 371,
+            "lettercase": "null"
+        },
+        {
+            "id": 8,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 421,
+            "end": 423,
+            "lettercase": "null"
+        },
+        {
+            "id": 9,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 461,
+            "end": 463,
+            "lettercase": "null"
+        },
+        {
+            "id": 10,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 522,
+            "end": 524,
+            "lettercase": "null"
+        },
+        {
+            "id": 11,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 670,
+            "end": 672,
+            "lettercase": "null"
+        },
+        {
+            "id": 12,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 866,
+            "end": 868,
+            "lettercase": "null"
+        },
+        {
+            "id": 13,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 917,
+            "end": 919,
+            "lettercase": "null"
+        },
+        {
+            "id": 14,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 1017,
+            "end": 1019,
+            "lettercase": "null"
+        },
+        {
+            "id": 15,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 1100,
+            "end": 1102,
+            "lettercase": "null"
+        },
+        {
+            "id": 16,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 1162,
+            "end": 1164,
+            "lettercase": "null"
+        },
+        {
+            "id": 17,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 1183,
+            "end": 1185,
+            "lettercase": "null"
+        },
+        {
+            "id": 18,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 1194,
+            "end": 1196,
+            "lettercase": "null"
+        },
+        {
+            "id": 19,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 1218,
+            "end": 1220,
+            "lettercase": "null"
+        },
+        {
+            "id": 20,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 1234,
+            "end": 1236,
+            "lettercase": "null"
+        },
+        {
+            "id": 21,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 1312,
+            "end": 1314,
+            "lettercase": "null"
+        },
+        {
+            "id": 22,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 1374,
+            "end": 1376,
+            "lettercase": "null"
+        },
+        {
+            "id": 23,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 1710,
+            "end": 1712,
+            "lettercase": "null"
+        },
+        {
+            "id": 24,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 1960,
+            "end": 1962,
+            "lettercase": "null"
+        },
+        {
+            "id": 25,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 2801,
+            "end": 2803,
+            "lettercase": "null"
+        },
+        {
+            "id": 26,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 2812,
+            "end": 2814,
+            "lettercase": "null"
+        },
+        {
+            "id": 27,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 2886,
+            "end": 2888,
+            "lettercase": "null"
+        },
+        {
+            "id": 28,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 3095,
+            "end": 3097,
+            "lettercase": "null"
+        },
+        {
+            "id": 29,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 3398,
+            "end": 3400,
+            "lettercase": "null"
+        },
+        {
+            "id": 30,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 3839,
+            "end": 3841,
+            "lettercase": "null"
+        },
+        {
+            "id": 31,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 4351,
+            "end": 4353,
+            "lettercase": "null"
+        },
+        {
+            "id": 32,
+            "name": "어깨",
+            "type": "ANATOMY",
+            "start": 4412,
+            "end": 4414,
+            "lettercase": "null"
+        },
+        {
+            "id": 33,
+            "name": "보통 사고로 다치거나",
+            "type": "REASON",
+            "start": 138,
+            "end": 149,
+            "lettercase": "null"
+        },
+        {
+            "id": 34,
+            "name": "운동",
+            "type": "REASON",
+            "start": 152,
+            "end": 154,
+            "lettercase": "null"
+        },
+        {
+            "id": 35,
+            "name": "운동",
+            "type": "REASON",
+            "start": 3796,
+            "end": 3798,
+            "lettercase": "null"
+        },
+        {
+            "id": 36,
+            "name": "집안일이 과했거나",
+            "type": "REASON",
+            "start": 157,
+            "end": 166,
+            "lettercase": "null"
+        },
+        {
+            "id": 37,
+            "name": "관절염",
+            "type": "DISEASE",
+            "start": 169,
+            "end": 172,
+            "lettercase": "null"
+        },
+        {
+            "id": 38,
+            "name": "관절염",
+            "type": "DISEASE",
+            "start": 595,
+            "end": 598,
+            "lettercase": "null"
+        },
+        {
+            "id": 39,
+            "name": "관절염",
+            "type": "DISEASE",
+            "start": 617,
+            "end": 620,
+            "lettercase": "null"
+        },
+        {
+            "id": 40,
+            "name": "관절염",
+            "type": "DISEASE",
+            "start": 630,
+            "end": 633,
+            "lettercase": "null"
+        },
+        {
+            "id": 41,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 169,
+            "end": 171,
+            "lettercase": "null"
+        },
+        {
+            "id": 42,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 595,
+            "end": 597,
+            "lettercase": "null"
+        },
+        {
+            "id": 43,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 617,
+            "end": 619,
+            "lettercase": "null"
+        },
+        {
+            "id": 44,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 630,
+            "end": 632,
+            "lettercase": "null"
+        },
+        {
+            "id": 45,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 1020,
+            "end": 1022,
+            "lettercase": "null"
+        },
+        {
+            "id": 46,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 1103,
+            "end": 1105,
+            "lettercase": "null"
+        },
+        {
+            "id": 47,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 1122,
+            "end": 1124,
+            "lettercase": "null"
+        },
+        {
+            "id": 48,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 1155,
+            "end": 1157,
+            "lettercase": "null"
+        },
+        {
+            "id": 49,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 1165,
+            "end": 1167,
+            "lettercase": "null"
+        },
+        {
+            "id": 50,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 1315,
+            "end": 1317,
+            "lettercase": "null"
+        },
+        {
+            "id": 51,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 1377,
+            "end": 1379,
+            "lettercase": "null"
+        },
+        {
+            "id": 52,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 1800,
+            "end": 1802,
+            "lettercase": "null"
+        },
+        {
+            "id": 53,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 2150,
+            "end": 2152,
+            "lettercase": "null"
+        },
+        {
+            "id": 54,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 2875,
+            "end": 2877,
+            "lettercase": "null"
+        },
+        {
+            "id": 55,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 3394,
+            "end": 3396,
+            "lettercase": "null"
+        },
+        {
+            "id": 56,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 3609,
+            "end": 3611,
+            "lettercase": "null"
+        },
+        {
+            "id": 57,
+            "name": "관절",
+            "type": "ANATOMY",
+            "start": 4377,
+            "end": 4379,
+            "lettercase": "null"
+        },
+        {
+            "id": 58,
+            "name": "어깨가 아픈",
+            "type": "SYMPTOM",
+            "start": 179,
+            "end": 185,
+            "lettercase": "null"
+        },
+        {
+            "id": 59,
+            "name": "어깨가 아파서",
+            "type": "SYMPTOM",
+            "start": 210,
+            "end": 217,
+            "lettercase": "null"
+        },
+        {
+            "id": 60,
+            "name": "어깨가 아파서",
+            "type": "SYMPTOM",
+            "start": 421,
+            "end": 428,
+            "lettercase": "null"
+        },
+        {
+            "id": 61,
+            "name": "상당히",
+            "type": "LEVEL",
+            "start": 227,
+            "end": 230,
+            "lettercase": "null"
+        },
+        {
+            "id": 62,
+            "name": "상당히",
+            "type": "LEVEL",
+            "start": 320,
+            "end": 323,
+            "lettercase": "null"
+        },
+        {
+            "id": 63,
+            "name": "상당히",
+            "type": "LEVEL",
+            "start": 480,
+            "end": 483,
+            "lettercase": "null"
+        },
+        {
+            "id": 64,
+            "name": "상당히",
+            "type": "LEVEL",
+            "start": 555,
+            "end": 558,
+            "lettercase": "null"
+        },
+        {
+            "id": 65,
+            "name": "상당히",
+            "type": "LEVEL",
+            "start": 4083,
+            "end": 4086,
+            "lettercase": "null"
+        },
+        {
+            "id": 66,
+            "name": "허리",
+            "type": "ANATOMY",
+            "start": 260,
+            "end": 262,
+            "lettercase": "null"
+        },
+        {
+            "id": 67,
+            "name": "척추",
+            "type": "ANATOMY",
+            "start": 264,
+            "end": 266,
+            "lettercase": "null"
+        },
+        {
+            "id": 68,
+            "name": "무릎관들",
+            "type": "ANATOMY",
+            "start": 272,
+            "end": 276,
+            "lettercase": "null"
+        },
+        {
+            "id": 69,
+            "name": "어깨 힘줄",
+            "type": "ANATOMY",
+            "start": 369,
+            "end": 374,
+            "lettercase": "null"
+        },
+        {
+            "id": 70,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 372,
+            "end": 374,
+            "lettercase": "null"
+        },
+        {
+            "id": 71,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 551,
+            "end": 553,
+            "lettercase": "null"
+        },
+        {
+            "id": 72,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 1464,
+            "end": 1466,
+            "lettercase": "null"
+        },
+        {
+            "id": 73,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 1587,
+            "end": 1589,
+            "lettercase": "null"
+        },
+        {
+            "id": 74,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 1761,
+            "end": 1763,
+            "lettercase": "null"
+        },
+        {
+            "id": 75,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 2623,
+            "end": 2625,
+            "lettercase": "null"
+        },
+        {
+            "id": 76,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 2651,
+            "end": 2653,
+            "lettercase": "null"
+        },
+        {
+            "id": 77,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 2716,
+            "end": 2718,
+            "lettercase": "null"
+        },
+        {
+            "id": 78,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 2964,
+            "end": 2966,
+            "lettercase": "null"
+        },
+        {
+            "id": 79,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 3269,
+            "end": 3271,
+            "lettercase": "null"
+        },
+        {
+            "id": 80,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 3328,
+            "end": 3330,
+            "lettercase": "null"
+        },
+        {
+            "id": 81,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 4868,
+            "end": 4870,
+            "lettercase": "null"
+        },
+        {
+            "id": 82,
+            "name": "힘줄",
+            "type": "ANATOMY",
+            "start": 5329,
+            "end": 5331,
+            "lettercase": "null"
+        },
+        {
+            "id": 83,
+            "name": "목",
+            "type": "ANATOMY",
+            "start": 446,
+            "end": 447,
+            "lettercase": "null"
+        },
+        {
+            "id": 84,
+            "name": "목",
+            "type": "ANATOMY",
+            "start": 1212,
+            "end": 1213,
+            "lettercase": "null"
+        },
+        {
+            "id": 85,
+            "name": "목에서 신경이 눌려 가지고",
+            "type": "REASON",
+            "start": 446,
+            "end": 460,
+            "lettercase": "null"
+        },
+        {
+            "id": 86,
+            "name": "어깨 통증",
+            "type": "DISEASE",
+            "start": 461,
+            "end": 466,
+            "lettercase": "null"
+        },
+        {
+            "id": 87,
+            "name": "어깨 통증",
+            "type": "DISEASE",
+            "start": 670,
+            "end": 675,
+            "lettercase": "null"
+        },
+        {
+            "id": 88,
+            "name": "통증",
+            "type": "SYMPTOM",
+            "start": 464,
+            "end": 466,
+            "lettercase": "null"
+        },
+        {
+            "id": 89,
+            "name": "통증",
+            "type": "SYMPTOM",
+            "start": 559,
+            "end": 561,
+            "lettercase": "null"
+        },
+        {
+            "id": 90,
+            "name": "통증",
+            "type": "SYMPTOM",
+            "start": 673,
+            "end": 675,
+            "lettercase": "null"
+        },
+        {
+            "id": 91,
+            "name": "통증",
+            "type": "SYMPTOM",
+            "start": 1228,
+            "end": 1230,
+            "lettercase": "null"
+        },
+        {
+            "id": 92,
+            "name": "통증",
+            "type": "SYMPTOM",
+            "start": 1320,
+            "end": 1322,
+            "lettercase": "null"
+        },
+        {
+            "id": 93,
+            "name": "통증",
+            "type": "SYMPTOM",
+            "start": 1916,
+            "end": 1918,
+            "lettercase": "null"
+        },
+        {
+            "id": 94,
+            "name": "통증",
+            "type": "SYMPTOM",
+            "start": 2094,
+            "end": 2096,
+            "lettercase": "null"
+        },
+        {
+            "id": 95,
+            "name": "통증",
+            "type": "SYMPTOM",
+            "start": 3736,
+            "end": 3738,
+            "lettercase": "null"
+        },
+        {
+            "id": 96,
+            "name": "통증",
+            "type": "SYMPTOM",
+            "start": 3884,
+            "end": 3886,
+            "lettercase": "null"
+        },
+        {
+            "id": 97,
+            "name": "통증",
+            "type": "SYMPTOM",
+            "start": 4010,
+            "end": 4012,
+            "lettercase": "null"
+        },
+        {
+            "id": 98,
+            "name": "통증",
+            "type": "SYMPTOM",
+            "start": 4292,
+            "end": 4294,
+            "lettercase": "null"
+        },
+        {
+            "id": 99,
+            "name": "팔",
+            "type": "ANATOMY",
+            "start": 509,
+            "end": 510,
+            "lettercase": "null"
+        },
+        {
+            "id": 100,
+            "name": "팔",
+            "type": "ANATOMY",
+            "start": 1518,
+            "end": 1519,
+            "lettercase": "null"
+        },
+        {
+            "id": 101,
+            "name": "팔",
+            "type": "ANATOMY",
+            "start": 2105,
+            "end": 2106,
+            "lettercase": "null"
+        },
+        {
+            "id": 102,
+            "name": "팔",
+            "type": "ANATOMY",
+            "start": 2178,
+            "end": 2179,
+            "lettercase": "null"
+        },
+        {
+            "id": 103,
+            "name": "팔",
+            "type": "ANATOMY",
+            "start": 2228,
+            "end": 2229,
+            "lettercase": "null"
+        },
+        {
+            "id": 104,
+            "name": "팔",
+            "type": "ANATOMY",
+            "start": 2744,
+            "end": 2745,
+            "lettercase": "null"
+        },
+        {
+            "id": 105,
+            "name": "팔",
+            "type": "ANATOMY",
+            "start": 3780,
+            "end": 3781,
+            "lettercase": "null"
+        },
+        {
+            "id": 106,
+            "name": "팔",
+            "type": "ANATOMY",
+            "start": 3891,
+            "end": 3892,
+            "lettercase": "null"
+        },
+        {
+            "id": 107,
+            "name": "팔",
+            "type": "ANATOMY",
+            "start": 4724,
+            "end": 4725,
+            "lettercase": "null"
+        },
+        {
+            "id": 108,
+            "name": "근육",
+            "type": "ANATOMY",
+            "start": 515,
+            "end": 517,
+            "lettercase": "null"
+        },
+        {
+            "id": 109,
+            "name": "근육",
+            "type": "ANATOMY",
+            "start": 1337,
+            "end": 1339,
+            "lettercase": "null"
+        },
+        {
+            "id": 110,
+            "name": "근육",
+            "type": "ANATOMY",
+            "start": 1652,
+            "end": 1654,
+            "lettercase": "null"
+        },
+        {
+            "id": 111,
+            "name": "근육",
+            "type": "ANATOMY",
+            "start": 1682,
+            "end": 1684,
+            "lettercase": "null"
+        },
+        {
+            "id": 112,
+            "name": "근육",
+            "type": "ANATOMY",
+            "start": 1807,
+            "end": 1809,
+            "lettercase": "null"
+        },
+        {
+            "id": 113,
+            "name": "근육",
+            "type": "ANATOMY",
+            "start": 3931,
+            "end": 3933,
+            "lettercase": "null"
+        },
+        {
+            "id": 114,
+            "name": "이두 장근",
+            "type": "ANATOMY",
+            "start": 538,
+            "end": 543,
+            "lettercase": "null"
+        },
+        {
+            "id": 115,
+            "name": "자가 반역 질환",
+            "type": "DISEASE",
+            "start": 602,
+            "end": 610,
+            "lettercase": "null"
+        },
+        {
+            "id": 116,
+            "name": "류마티스 관절염",
+            "type": "DISEASE",
+            "start": 612,
+            "end": 620,
+            "lettercase": "null"
+        },
+        {
+            "id": 117,
+            "name": "활액막염",
+            "type": "DISEASE",
+            "start": 623,
+            "end": 627,
+            "lettercase": "null"
+        },
+        {
+            "id": 118,
+            "name": "오십 견",
+            "type": "DISEASE",
+            "start": 750,
+            "end": 754,
+            "lettercase": "null"
+        },
+        {
+            "id": 119,
+            "name": "회전 관계 파열",
+            "type": "DISEASE",
+            "start": 759,
+            "end": 767,
+            "lettercase": "null"
+        },
+        {
+            "id": 120,
+            "name": "어깨가 아프다",
+            "type": "SYMPTOM",
+            "start": 866,
+            "end": 873,
+            "lettercase": "null"
+        },
+        {
+            "id": 121,
+            "name": "어깨가 아프다",
+            "type": "SYMPTOM",
+            "start": 1234,
+            "end": 1241,
+            "lettercase": "null"
+        },
+        {
+            "id": 122,
+            "name": "어깨 아파서",
+            "type": "SYMPTOM",
+            "start": 917,
+            "end": 923,
+            "lettercase": "null"
+        },
+        {
+            "id": 123,
+            "name": "어깨 아파서",
+            "type": "SYMPTOM",
+            "start": 1960,
+            "end": 1966,
+            "lettercase": "null"
+        },
+        {
+            "id": 124,
+            "name": "어깨 관절",
+            "type": "ANATOMY",
+            "start": 1017,
+            "end": 1022,
+            "lettercase": "null"
+        },
+        {
+            "id": 125,
+            "name": "어깨 관절",
+            "type": "ANATOMY",
+            "start": 1100,
+            "end": 1105,
+            "lettercase": "null"
+        },
+        {
+            "id": 126,
+            "name": "어깨 관절",
+            "type": "ANATOMY",
+            "start": 1162,
+            "end": 1167,
+            "lettercase": "null"
+        },
+        {
+            "id": 127,
+            "name": "어깨 관절",
+            "type": "ANATOMY",
+            "start": 1312,
+            "end": 1317,
+            "lettercase": "null"
+        },
+        {
+            "id": 128,
+            "name": "어깨 관절",
+            "type": "ANATOMY",
+            "start": 1374,
+            "end": 1379,
+            "lettercase": "null"
+        },
+        {
+            "id": 129,
+            "name": "상황골",
+            "type": "ANATOMY",
+            "start": 1109,
+            "end": 1112,
+            "lettercase": "null"
+        },
+        {
+            "id": 130,
+            "name": "상황골",
+            "type": "ANATOMY",
+            "start": 1737,
+            "end": 1740,
+            "lettercase": "null"
+        },
+        {
+            "id": 131,
+            "name": "상황골",
+            "type": "ANATOMY",
+            "start": 2591,
+            "end": 2594,
+            "lettercase": "null"
+        },
+        {
+            "id": 132,
+            "name": "상황골",
+            "type": "ANATOMY",
+            "start": 3006,
+            "end": 3009,
+            "lettercase": "null"
+        },
+        {
+            "id": 133,
+            "name": "견갑골",
+            "type": "ANATOMY",
+            "start": 1117,
+            "end": 1120,
+            "lettercase": "null"
+        },
+        {
+            "id": 134,
+            "name": "견갑골",
+            "type": "ANATOMY",
+            "start": 1140,
+            "end": 1143,
+            "lettercase": "null"
+        },
+        {
+            "id": 135,
+            "name": "견갑골",
+            "type": "ANATOMY",
+            "start": 1410,
+            "end": 1413,
+            "lettercase": "null"
+        },
+        {
+            "id": 136,
+            "name": "견갑골",
+            "type": "ANATOMY",
+            "start": 2563,
+            "end": 2566,
+            "lettercase": "null"
+        },
+        {
+            "id": 137,
+            "name": "견갑골의 관절",
+            "type": "ANATOMY",
+            "start": 1117,
+            "end": 1124,
+            "lettercase": "null"
+        },
+        {
+            "id": 138,
+            "name": "쇄골",
+            "type": "ANATOMY",
+            "start": 1126,
+            "end": 1128,
+            "lettercase": "null"
+        },
+        {
+            "id": 139,
+            "name": "견갑골의[/OVERLAP] 관절",
+            "type": "ANATOMY",
+            "start": 1140,
+            "end": 1157,
+            "lettercase": "null"
+        },
+        {
+            "id": 140,
+            "name": "어깨가 아프다고",
+            "type": "SYMPTOM",
+            "start": 1234,
+            "end": 1242,
+            "lettercase": "null"
+        },
+        {
+            "id": 141,
+            "name": "회전근의 근육",
+            "type": "ANATOMY",
+            "start": 1332,
+            "end": 1339,
+            "lettercase": "null"
+        },
+        {
+            "id": 142,
+            "name": "상안골",
+            "type": "ANATOMY",
+            "start": 1396,
+            "end": 1399,
+            "lettercase": "null"
+        },
+        {
+            "id": 143,
+            "name": "극상근",
+            "type": "ANATOMY",
+            "start": 1506,
+            "end": 1509,
+            "lettercase": "null"
+        },
+        {
+            "id": 144,
+            "name": "극상근",
+            "type": "ANATOMY",
+            "start": 2957,
+            "end": 2960,
+            "lettercase": "null"
+        },
+        {
+            "id": 145,
+            "name": "극상근",
+            "type": "ANATOMY",
+            "start": 3143,
+            "end": 3146,
+            "lettercase": "null"
+        },
+        {
+            "id": 146,
+            "name": "극상근",
+            "type": "ANATOMY",
+            "start": 4784,
+            "end": 4787,
+            "lettercase": "null"
+        },
+        {
+            "id": 147,
+            "name": "견갑화근",
+            "type": "ANATOMY",
+            "start": 1555,
+            "end": 1559,
+            "lettercase": "null"
+        },
+        {
+            "id": 148,
+            "name": "손",
+            "type": "ANATOMY",
+            "start": 1591,
+            "end": 1592,
+            "lettercase": "null"
+        },
+        {
+            "id": 149,
+            "name": "손",
+            "type": "ANATOMY",
+            "start": 2665,
+            "end": 2666,
+            "lettercase": "null"
+        },
+        {
+            "id": 150,
+            "name": "손",
+            "type": "ANATOMY",
+            "start": 2719,
+            "end": 2720,
+            "lettercase": "null"
+        },
+        {
+            "id": 151,
+            "name": "극하근",
+            "type": "ANATOMY",
+            "start": 1662,
+            "end": 1665,
+            "lettercase": "null"
+        },
+        {
+            "id": 152,
+            "name": "소형원근",
+            "type": "ANATOMY",
+            "start": 1667,
+            "end": 1671,
+            "lettercase": "null"
+        },
+        {
+            "id": 153,
+            "name": "회전 근계 힘줄",
+            "type": "ANATOMY",
+            "start": 1755,
+            "end": 1763,
+            "lettercase": "null"
+        }
+    ]
+}
